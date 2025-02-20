@@ -1,0 +1,2 @@
+# Navigation-tool-for-visually-impaired---hurdle-recognition-using-image-processing-and-IOT
+This project is a smart stick that detects both static and dynamic objects and provide output through earphones that helps a visually impaired to navigate easily.This project is a smart stick that detects both static and dynamic objects and provide output through earphones that helps a visually impaired to navigate easily.
